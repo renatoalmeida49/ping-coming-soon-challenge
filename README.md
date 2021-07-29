@@ -47,8 +47,9 @@ Users should be able to:
 
 ### What I learned
 
-For this project I've focused on the speed, in how much time I spend to build a single page and the quality of it. I gave myself the deadline of 12h.
-
+For this project I've focused on the speed, in how much time I spend to build a single page and the quality of it. I gave myself the deadline of 12h.  
+  
+And there is only one commit because I was teaching my friend about HTML and CSS. The use of git would only make things difficult for him.
 
 ### Continued development
 
